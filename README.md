@@ -104,7 +104,7 @@ Upon verified completion of all deliverables across all project milestones inclu
 
 *Note: All grant funds will be disbursed in KDA at a fair exchange rate to meet the grant’s USD equivalent value.*
 
-##GRANT CATEGORIES
+## GRANT CATEGORIES
 
 Kadena maintains a list of preferred (“prompted”) grants, but also welcomes unprompted grant applications.
 
