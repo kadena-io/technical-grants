@@ -64,20 +64,20 @@ Kadena’s Technical Grant process is divided into 2 phases; Grant Application a
 
 All applications must be submitted following the format of the [Technical Grants Application Template](grants/technical_grants_application_template.md) with all questions fully answered.
 
-- Applications may be submitted in one of three different ways:
-  - Fully public: Public application and public funding amount requested
-  - Partially public: Public application and private funding amount requested
-  - Fully private: Private application and private funding amount requested
+Applications may be submitted in one of three different ways:
+- **Fully public**: Public application and public funding amount requested
+- **Partially public**: Public application and private funding amount requested
+- **Fully private**: Private application and private funding amount requested
 
-Public applications should be submitted via pull request to this repo:
+**Public applications** should be submitted via pull request to this repo:
 - Fork this repository
 - In the newly created fork, create a copy of the [Technical Grants Application Template](grants/technical_grants_application_template.md)
-  - Move the application into the appropriate folder; Prompted or Unprompted
+  - Move the application into the appropriate folder; [Prompted](grants/prompted) or [Unprompted](grants/unprompted)
 - Label the file as "project_name.md"
 - Fill out the complete application template
 - Once complete, click on "create new pull request"
 
-Private applications and private details of public applications should be submitted to grants@kadena.io
+**Private applications** and private details of public applications should be submitted to grants@kadena.io
 
 - Email subject: Format should be “Technical Grants Application - [project name]”
 - Email body: Paste a completed application following the format of the [Technical Grants Application Template](grants/technical_grants_application_template.md)
@@ -129,5 +129,7 @@ Explore these resources for additional information and support:
 - <a href="https://discord.io/kadena" target="_blank">Discord</a>
 - <a href="https://twitter.com/kadena_io" target="_blank">Twitter</a>
 - Email questions and private applications to grants@kadena.io
+
+***
 
 ** Kadena would like to recognize and thank the <a href="https://github.com/w3f" target="_blank">Web3 Foundation</a> for establishing a leading standard for developer grant programs from which Kadena drew inspiration. **
