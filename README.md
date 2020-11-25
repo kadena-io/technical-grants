@@ -77,7 +77,7 @@ Applications may be submitted in one of three different ways:
 - Fill out the complete application template
 - Once complete, click on "create new pull request"
 
-**Private applications** and private details of public applications should be submitted to grants@kadena.io
+**Private applications** and private details of public applications should be submitted to build@kadena.io
 
 - Email subject: Format should be “Technical Grants Application - [project name]”
 - Email body: Paste a completed application following the format of the [Technical Grants Application Template](grants/technical_grants_application_template.md)
@@ -128,7 +128,7 @@ Explore these resources for additional information and support:
 - <a href="https://kadena-io.github.io/kadena-docs/" target="_blank">Kadena Docs (resource library)</a>
 - <a href="https://discord.io/kadena" target="_blank">Discord</a>
 - <a href="https://twitter.com/kadena_io" target="_blank">Twitter</a>
-- Email questions and private applications to grants@kadena.io
+- Email questions and private applications to build@kadena.io
 
 ***
 

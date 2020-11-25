@@ -2,7 +2,7 @@
 
 ***Instruction***
 
-*Progress reports should be emailed to grants@kadena.io and cover all items listed in the Milestone Progress Report Checklist*
+*Progress reports should be emailed to build@kadena.io and cover all items listed in the Milestone Progress Report Checklist*
 
 ## Milestone Progress Report Checklist
 
