@@ -25,11 +25,11 @@ Any private information needed will be supplied on demand
 
 | Milestone   | Est. Duration | Funding      | Funding Reason  | Deliverable                     | Specification                                          |
 | :---------- | :------------ | :------------| :-------------- | :-------------------------------| :------------------------------------------------------|
-| 1           | 10 days       | $1,400       | Hosting         | Hosting in a real datacenter    | At least a year of guaranteed availability             |
+| 1           | 10 days       | $2,400       | Hosting         | Hosting in a real datacenter    | At least a year of guaranteed availability             |
 | 2           | 30 days       | $500         | Effort          | Open Source installation script | Allow anyone to host the dashboard                     |
 | 3           | 20 days       | $0           | Effort          | Write documentation             | Make it easier to run and modify                       |
 | 4           | 30 days       | $500         | Effort          | Tokens dashboard                | Statistics and graphics about tokens on the network    |
-| **Total**   | **90 days**   | **$2,400**   |                 |                                 |                                                        |
+| **Total**   | **90 days**   | **$3,400**   |                 |                                 |                                                        |
 
 
 
