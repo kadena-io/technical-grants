@@ -14,6 +14,7 @@ I do not have a developper background, I manage mining farms.
 Here is some images of my previous work, those were my first GUI.  
 ![](https://anedak.com/PreviousWorks.png)  
 GUI Miner EPIC was used to simplify the usage of a GRIN fork. It consist of a combination of 3 different  
+programs needed to utilize the coin in a GUI.  
 Doge Digger managed and autoupdated many miners, also kept preset to change coins quick.  
 Github https://github.com/Thanos420NoScope  
 No LinkedIn  
@@ -23,13 +24,13 @@ Any private information needed will be supplied on demand
 
 ## 3. DEVELOPMENT ROADMAP
 
-| Milestone   | Est. Duration | Funding      | Funding Reason  | Deliverable                     | Specification                                          |
-| :---------- | :------------ | :------------| :-------------- | :-------------------------------| :------------------------------------------------------|
-| 1           | 10 days       | 6,400 KDA    | Hosting         | Hosting in a real datacenter    | At least a year of guaranteed availability             |
-| 2           | 30 days       | 1,300 KDA    | Effort          | Open Source installation script | Allow anyone to host the dashboard                     |
-| 3           | 20 days       | 0 KDA        | Effort          | Write documentation             | Make it easier to run and modify                       |
-| 4           | 30 days       | 1,300 KDA    | Effort          | Tokens dashboard                | Statistics and graphics about tokens on the network    |
-| **Total**   | **90 days**   | **9,000 KDA**|                 |                                 |                                                        |
+| Milestone   | Completed   | Est. Duration | Funding      | Funding Reason  | Deliverable                     | Specification                                          |
+| :---------- | :---------- | :------------ | :------------| :-------------- | :-------------------------------| :------------------------------------------------------|
+| 1           |    ✅      | 10 days       | 6,400 KDA    | Hosting         | Hosting in a real datacenter    | At least a year of guaranteed availability             |
+| 2           | In Progress| 30 days       | 1,300 KDA    | Effort          | Open Source installation script | Allow anyone to host the dashboard                     |
+| 3           |    ❌      | 20 days       | 0 KDA        | Effort          | Write documentation             | Make it easier to run and modify                       |
+| 4           |    ❌      | 30 days       | 1,300 KDA    | Effort          | Tokens dashboard                | Statistics and graphics about tokens on the network    |
+| **Total**   |    ❌      | **90 days**   | **9,000 KDA**|                 |                                 |                                                        |
 
 
 
