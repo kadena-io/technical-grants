@@ -27,12 +27,13 @@ Any private information needed will be supplied on demand
 | Milestone   | Completed   | Est. Duration | Funding      | Funding Reason  | Deliverable                     | Specification                                          |
 | :---------- | :---------- | :------------ | :------------| :-------------- | :-------------------------------| :------------------------------------------------------|
 | 1           |    ✅      | 10 days       | 6,400 KDA    | Hosting         | Hosting in a real datacenter    | At least a year of guaranteed availability             |
-| 2           | In Progress| 30 days       | 1,300 KDA    | Effort          | Open Source installation script | Allow anyone to host the dashboard                     |
-| 3           |    ❌      | 20 days       | 0 KDA        | Effort          | Write documentation             | Make it easier to run and modify                       |
+| 2           |    ✅      | 30 days       | 1,300 KDA    | Effort          | Open Source installation script | Allow anyone to host the dashboard                     |
+| 3           | In Progress | 20 days       | 0 KDA        | Effort          | Write documentation             | Make it easier to run and modify                       |
 | 4           |    ❌      | 30 days       | 1,300 KDA    | Effort          | Tokens dashboard                | Statistics and graphics about tokens on the network    |
 | **Total**   |    ❌      | **90 days**   | **9,000 KDA**|                 |                                 |                                                        |
 
-
+Milestone 1 https://anedak.com/beta OVH / Xeon-E 2136 / 2xNVME Raid0  
+Milestone 2 https://github.com/Thanos420NoScope/kadena-dashboard  
 
 ## 4. ADDITIONAL INFORMATION
 
