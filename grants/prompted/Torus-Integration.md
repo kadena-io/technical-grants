@@ -21,10 +21,11 @@ Any private information needed will be supplied on demand
 
 ***Overview***
 
-| Milestone   | Est. Duration | Funding      | Funding Reason |                   
-| :---------- | :------------ | :------------| :--------------| 
-| 1           | 6 days        | 3,000 KDA    | Effort         |    
->| **Total**  | **6 days**    | **3,000 KDA**|                |
+| Milestone   | Est. Duration | Funding       | Funding Reason         |                   
+| :---------- | :------------ | :------------ | :--------------------- | 
+| 1           | 6 days        | 3,000 KDA     | Effort                 |   
+| 2           | 30 day        | 7,000 KDA     | mainnet functionality  |
+>| **Total**  | **6 days**    | **10,000 KDA**|                
 
 
 ***Milestones***
@@ -33,6 +34,7 @@ Any private information needed will be supplied on demand
 >| :------------- | :--------------------- | :--------------------------------|
 >| [reference ID] | [title of deliverable] | [description of functionality]   |
 >| 1              | Integration with Torus | Complete integration with Torus  |
+>| 2              | Mainnet functionality  | Implement Mainnet functionality  |
 
 
 ## 4. ADDITIONAL INFORMATION
