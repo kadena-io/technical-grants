@@ -136,8 +136,8 @@ The following timelines are very conservative estimates and we expect to deliver
 | 2           | 28 days       | $16,100      |
 | **Subtotal**| **63 days**   | **$34,083**  |
 | :---------- | :----------   | :----------  |
-| 4           | 28 days       | $16,100      |
-| 5           | 21 days       | $12,075      |
+| 3           | 28 days       | $16,100      |
+| 4           | 21 days       | $12,075      |
 | **Subtotal**| **49 days**   | **$26,509**  |
 
 Roles & Compensation
