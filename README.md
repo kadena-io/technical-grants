@@ -13,9 +13,11 @@
 
 ## PURPOSE
 
-Kadena is committed to delivering the industry-leading hybrid blockchain platform to service the emerging digital economy. Kadena has launched the world’s fastest layer-1 PoW network and is now introducing Technical Grants to foster development and adoption of the Kadena ecosystem.
+On April 21st 2022, Kadena Eco has launched a $100 million Grant Program to inspire builders to come and innovate on the Kadena network.
 
-Technical Grants fund projects that support the growth of Kadena’s ecosystem by lowering barriers to entry, providing novel uses, opening new markets, and more. The Grants encourage innovation through prompted and unprompted grant categories, and they reward participants that deliver results.
+Kadena Eco exists to empower builders to create new projects that transform the world. To realize this mission, we’re doubling down on our growing community by deploying our treasury resources towards the long-term sustainability of our ecosystem. 
+
+Kadena Eco grants will be applied to projects big and small, enabling builders of all backgrounds to succeed on Kadena. With our network of technology experts and strategic partners, we’re here to support builders every step of the way.  
 
 ## HOW IT WORKS
 
