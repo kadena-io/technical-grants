@@ -44,7 +44,7 @@ Just fill out the requested information [here](https://khnrs3ltkjv.typeform.com/
 
 The Kadena Eco Grant application process is divided in 4 categories: Project Overview, Team, Development Roadmap and Additional Information.
 
-- If you wise to download the questions and review offline; you may download the entire form [here](https://kadena.io/wp-content/uploads/2022/04/Kadena-Grant-Application.pdf).
+- If you wish to download the questions and review offline; you may download the entire form [here](https://kadena.io/wp-content/uploads/2022/04/Kadena-Grant-Application.pdf).
 - [Apply for a Kadena Eco Grant here](https://khnrs3ltkjv.typeform.com/grant-app)
 
 ### What criteria will my submission be evaluated on?
